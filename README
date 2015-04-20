@@ -1,3 +1,11 @@
+Author: Karen MacPherson
+Class: Simulation Theory
+
+These scripts work best run in eclipse with Scala version 2.10. If running 2.11, you'll have to import scala.swing.
+
+At the moment, to inputs to the simulations are hard-coded in the script. Next steps will be to have the user specify the input values to the 'game', and the desired end result is a gui or web application that can run each simulation independently and with various inputs, then outputting the result in a graphical format.
+
+
 Abstract:
 
 Cooperation is common in nature both between members of the same species and between species.  However there is no sound basis for the evolution of cooperation without evoking group selection or kin selection which are both very limited. Game theory has been used to explain the rise of altruism in a population and how it can be beneficial to the individual. In the Prisoner’s Dilemma, it is always better to defect instead of cooperate, so the biological models tend to not use this game. However, if there is a spatial characteristic, then the dynamics change. This project is aimed to observe the effect of spatial evolutionary game theory on the evolution and maintenance of cooperation in a population. Both spatial game theory and classical game theory in a finite population is observed. The simulation of spatial game theory works under the assumption that the strategy corresponding to a given site has interactions with the strategies with its close neighbors, and that the strategies change as the neighboring strategies have a higher fitness. The results are qualitatively different from those from the classical evolutionary game theory. The proportion of Defectors in the population in general is lower in the spatial games, and cooperators are dominant for values that in the classical game, the defectors would be dominant.  When the orientation is spatial, it’s possible for cooperators to form clusters, which raise their fitness and enable them to spread and invade. This spatial reciprocity gives insight to how cooperation may have evolved in nature.
