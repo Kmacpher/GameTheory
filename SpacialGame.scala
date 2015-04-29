@@ -39,13 +39,13 @@ object SpatialGame {
 	//var B:Int = ((1-startPercentA)*100*100).toInt
 	
 	//values in the payoff matrix
-	val beta = 1.0
+	val beta = 1.6
 	val epsilon = 0.0
 	
 	val a = 1.0     //two cooperators
 	val b = 0.0		//cooperator with defector		PD
-	val c = beta
-	val d = epsilon
+	val c = beta	//defector with cooperator
+	val d = epsilon //two defectors
 	
 	//val benefit = 0.50
 	//val cost = 0.90
