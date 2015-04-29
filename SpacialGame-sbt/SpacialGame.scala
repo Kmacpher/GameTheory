@@ -193,7 +193,7 @@ def MakeSpace() {
 		drawPanel.repaint()
 		
 		Printstats(t)
-		while(((B > 0)&&(A > 0)&&(t<500))) {
+		while(((B > 0)&&(A > 0)&&(t<=500))) {
 			
 			for(x <- 0 until max) {
 				for(y <- 0 until max)
