@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 751c95e6, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/jre/classes:/Users/Cuile/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/target/scala-2.11/classes:/Users/Cuile/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.3.jar:/Users/Cuile/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.3.jar:/Users/Cuile/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.862422186 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/Cuile/Projects/Old code/GameTheory/GameTheoryPublic/SpacialGame/SpacialGame.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, Printstats, wait, $asInstanceOf, Neighbors, drawPanel, equals, asInstanceOf, synchronized, A, a, $isInstanceOf, nextStrategy, SpatialGame, epsilon, main, color, MakeSpace, notifyAll, frame, isInstanceOf, payoffSum, Cell, <init>, UpdateCell, max, b, B, ==, PlayGame, clone, strategy, Cells, beta, toString, !=, c, getClass, ne, startPercentA, eq, ##, finalize, hashCode, d.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
